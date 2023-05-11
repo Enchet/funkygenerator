@@ -14,3 +14,19 @@ p {
     color: #DAB49D;
     font-size: 10px;
 }
+
+a {
+    text-align: center; 
+}
+
+button {
+    background-color: #895737;
+    text-align: center;
+    width: 70%;
+    height: 15%;
+}
+
+video {
+    width: 80%;
+    height: 60%;
+}
