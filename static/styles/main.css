@@ -1,0 +1,16 @@
+body {
+    background-color: #F3E9DC;
+}
+
+* {
+    text-align: center;
+}
+
+h1 {
+    color: #895737;
+}
+
+p {
+    color: #DAB49D;
+    font-size: 10px;
+}
